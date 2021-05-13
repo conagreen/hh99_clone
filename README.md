@@ -52,9 +52,10 @@
 
 ## 동작화면
 
-
 ### 메인페이지
+
 ![](https://images.velog.io/images/ouo_yoonk/post/38ab1bae-edb1-4d47-b0e6-3e86f0be83bc/v_main.gif)
+
 - 전체 목록조회
 - 트렌딩, 최신 포스트 조회
 
@@ -62,6 +63,7 @@
 ![](https://images.velog.io/images/ouo_yoonk/post/20be1575-a695-44f7-b58a-d29aa0af6853/detail2.gif)
 
 ### 로그인, 회원가입
+
 ![](https://images.velog.io/images/ouo_yoonk/post/fb39d42f-af0e-4a76-be36-fb877e597eb2/v_login.gif)
 
 ### 글쓰기, 수정, 삭제
