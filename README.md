@@ -53,28 +53,26 @@
 ## 동작화면
 
 ### 메인페이지
-
-![](https://images.velog.io/images/ouo_yoonk/post/38ab1bae-edb1-4d47-b0e6-3e86f0be83bc/v_main.gif)
+![](src/main/resources/static/img/v_main.gif)
 
 - 전체 목록조회
 - 트렌딩, 최신 포스트 조회
 
 ### 상세페이지
-![](https://images.velog.io/images/ouo_yoonk/post/20be1575-a695-44f7-b58a-d29aa0af6853/detail2.gif)
+![](src/main/resources/static/img/detail2.gif)
 
 ### 로그인, 회원가입
-
-![](https://images.velog.io/images/ouo_yoonk/post/fb39d42f-af0e-4a76-be36-fb877e597eb2/v_login.gif)
+![](src/main/resources/static/img/v_login.gif)
 
 ### 글쓰기, 수정, 삭제
-![](https://images.velog.io/images/ouo_yoonk/post/ea49d5f6-fcb6-4f2b-9fc2-5b62d4b69656/v_write.gif)
-- toast editor 라이브러리 이용
+![](src/main/resources/static/img/v_write.gif)
+- 글쓰기
 
-![](https://images.velog.io/images/ouo_yoonk/post/b407834d-b8b8-457c-91e7-77e72996a90f/v_ud.gif)
+![](src/main/resources/static/img/v_ud.gif)
 - 작성자만 수정, 삭제 가능
 
 ### 댓글 달기, 수정, 삭제
-![](https://images.velog.io/images/ouo_yoonk/post/c866e4ca-f4da-4d3c-93a9-87cd3a8366df/v_comment.gif)
+![](src/main/resources/static/img/v_comment.gif)
 
 ### 반응형
-![](https://images.velog.io/images/ouo_yoonk/post/9df2b531-1e94-488a-8a29-5ae4842223ad/response.gif)
+![](src/main/resources/static/img/response.gif)
